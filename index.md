@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 下载不存在的客户端
-      link: /app
+      link: /
     - theme: alt
       text: 前往导航页
       link: /app
