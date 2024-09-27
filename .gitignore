@@ -1,3 +1,6 @@
+# 忽略 vitepress 目录
+.vitepress/cache
+.vitepress/dist
 # 忽略 node_modules 目录
 node_modules/
 
